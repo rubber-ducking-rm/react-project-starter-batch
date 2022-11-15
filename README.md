@@ -17,7 +17,7 @@
 ## Usage
 
 ```bash
-reactTypeScript.bat
+react-project-starter.bat
 type project name :'Your Project Name'
 ```
 
